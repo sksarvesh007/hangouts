@@ -20,6 +20,7 @@ to start the backend run:
 ```bash
 uv run main.py
 ```
+this runs on port 8000
 
 Frontend : 
 it uses pnpm as package manager, and runs on port 3000
